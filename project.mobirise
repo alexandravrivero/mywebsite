@@ -22,7 +22,7 @@
     },
     "versionFirst": "3.10.5",
     "uniqCompNum": 29,
-    "versionPublish": "3.11.1",
+    "versionPublish": "3.10.5",
     "favicon": "",
     "noImageResize": "",
     "path": "@PROJECT_PATH@"
@@ -759,7 +759,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#90a878!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
